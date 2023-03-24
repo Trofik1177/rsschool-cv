@@ -6,7 +6,8 @@
 * E-mail: belkotrofim@gmail.com
 * __Telegram:__@Trofik135
 * [Linkedin](https://www.linkedin.com/in/трофим-белко-43a630227/)
-___
+
+---
 
 ##### Briefly About Myself:
 My career is just beginning. As a teenager, he was fond of robotics, participated in robo-races. After graduating from school, I realized that I wanted to develop in the IT field and entered the College of Business and Law at the Faculty of Information Technology Software, additionally taking various courses on the Stepik platform.
