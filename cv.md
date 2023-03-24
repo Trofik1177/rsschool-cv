@@ -24,6 +24,9 @@ ___
 * Figma
 
 ---
+##### Code Example: 
+    console.log ('Hello World')
+___
 
 
 
