@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+body{
+    font-family: 'Space Mono', monospace;
+    padding: 50px 300px;
+    background: linear-gradient(131deg, rgba(255,188,254,1) 0%, rgba(188,250,255,1) 100%);
+} 
+.counter{
+    padding: 30px ;
+    border-radius: 10px;
+    background: linear-gradient(131deg, rgb(254, 0, 249) 0%, rgb(0, 227, 243) 100%);
+    
+}
+.image{
+    width: 400px ;
+    border-radius: 10px;
+    margin-left: 50px;
+   
+}
+.flex{
+    display: flex;
+}
+.position{
+    position: relative;
+    bottom: 100px;
+}
+.image1{
+    width: 550px ;
+    border-radius: 10px;
+    margin-left: 100px;
+   
+}
